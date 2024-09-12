@@ -65,7 +65,7 @@ nav a {
     width: 250px;
     color: black;
     background: white;
-    background-image: url(/arquivos/logo.png);
+    background-image: url(logo.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: 70%;
